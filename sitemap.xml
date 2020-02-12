@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cajaindigo.com/about/</loc>
+    <lastmod>2020-02-12T12:49:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cajaindigo.com/</loc>
+    <lastmod>2020-02-12T12:49:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cajaindigo.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cajaindigo.com/tags/</loc>
+  </url>
+  
+</urlset>

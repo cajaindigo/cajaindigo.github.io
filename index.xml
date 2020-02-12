@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caja Indigo</title>
+    <link>https://cajaindigo.com/</link>
+    <description>Recent content on Caja Indigo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2020 12:49:43 -0500</lastBuildDate>
+    
+	<atom:link href="https://cajaindigo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acerca de...</title>
+      <link>https://cajaindigo.com/about/</link>
+      <pubDate>Wed, 12 Feb 2020 12:49:43 -0500</pubDate>
+      
+      <guid>https://cajaindigo.com/about/</guid>
+      <description>Caja Indigo es un nuevo inicio&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
